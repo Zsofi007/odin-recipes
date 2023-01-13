@@ -1,0 +1,18 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    background-color: antiquewhite;
+   
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
